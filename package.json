@@ -1,0 +1,14 @@
+{
+  "name": "file-transfer",
+  "version": "1.0.0",
+  "description": "File Transfer Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
